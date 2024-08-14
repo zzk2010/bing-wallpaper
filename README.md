@@ -1,2 +1,2 @@
 # bing-wallpaper
-A program to get daily wallpapre from bing.com
+A program to get daily wallpaper from bing.com
